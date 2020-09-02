@@ -1,6 +1,6 @@
 # Advertisement Dashboard
 
-I have completed the dashboard as per the allocated time of 3 hrs. However, due to time constraint I missed out revising some formating issues and adding extra panel for describing the dashboard, so below I will be adding a bit of information about it.   
+The dashboard describes the analysis of Ad performance.
 
 [Click here to view the Dashboard](https://rishabh-kanojia.shinyapps.io/AdDash/)
 
